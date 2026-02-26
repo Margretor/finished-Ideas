@@ -1,0 +1,54 @@
+# Deviz de Inginerie și Bugetare Definitivă (TCO "Zero-Hour")
+
+Matricea financiară expune costurile de capital (CAPEX) și cheltuielile operaționale de conversie (OPEX) necesare aducerii fiecărei platforme la stadiul industrial, perfect legalizat pentru o Masă Totală Combinată (MTC) de peste 6.350 kg, cu extracție pe roți din Germania spre România.
+
+Prețurile bazei rulante reprezintă valoarea de piață estimată (fără TVA, achiziție intracomunitară B2B) pentru unități necorodate și cu istoric de mentenanță verificabil.
+
+---
+
+## Tabel 1: Proiectul "Optimizare Rațională" - Fiat Fullback / L200 Gen 5 (2.4L AT)
+
+**Target Cinematic:** MTC 6.350 kg (Tractare 3.500 kg + Sarcină Benă **435 kg**)
+
+| Cod | Fază / Locație | Descriere Tehnică B2B (Componente & Manoperă) | Cost Estimativ (€) |
+| :--- | :--- | :--- | :--- |
+| **00** | **Achiziție Bază** | Vehicul rulat (Est. 120.000 - 150.000 km) | 12.000 € |
+| **01** | **Logistică (DE)** | Transport platformă internă (Dealer -> Atelier 4x4) | 350 € |
+| **02** | **Hardware MTC (DE)**| Suspensie pneumatică spate (Bolt-On) + Cârlig HD (D-Wert >= 17.17 kN) + Modul electric 13 pini | 3.500 € |
+| **03** | **Anticoroziv (DE)** | Tratament șasiu standard (Curățare presiune + Ceară cavități) | 1.280 € |
+| **04** | **Inginerie/Acte (DE)**| Geometrie 3D + Taxă TÜV §21 + Handling Fee (Antreprenor) | 570 € |
+| **05** | **Birocrație (DE/RO)** | Brief nou + Numere tranzit 15 zile + Asigurare + Cost rută DE-RO | 800 € |
+| **06** | **Securizare (RO)** | Înlocuire lanț distribuție OEM (Mentenanță preventivă 200k km) | 1.200 € |
+| **07** | **Termodinamică (RO)**| Răcitor ATF extern cu placă termostatică + Flush complet cutie Aisin | 750 € |
+| **08** | **Mentenanță (RO)** | Curățare DPF chimică/termică + Revizie fluide axe/diferențiale | 1.850 € |
+| **---** | **TOTAL CAPEX** | **Conversie la cheie + Vehicul (Stadiu "Zero-Hour" Heavy-Duty)** | **~ 22.300 €** |
+
+---
+
+## Tabel 2: Proiectul "Forța Supremă" - Mercedes-Benz X-Class V6 (3.0L AT)
+
+**Target Cinematic:** MTC 6.800 kg (Tractare 3.500 kg + Sarcină Benă **615 kg**)
+
+| Cod | Fază / Locație | Descriere Tehnică B2B (Componente & Manoperă) | Cost Estimativ (€) |
+| :--- | :--- | :--- | :--- |
+| **00** | **Achiziție Bază** | Vehicul rulat (Est. 120.000 - 150.000 km) | 28.000 € |
+| **01** | **Logistică (DE)** | Transport platformă internă (Dealer -> Atelier 4x4) | 350 € |
+| **02** | **Anticoroziv HD (DE)**| Sablare criogenică (Trockeneisstrahlen) + 3 straturi chimice (KSD/Dinitrol) | 2.000 € |
+| **03** | **Hardware MTC (DE)**| Kit Scholz (Arcuri elicoidale HD + Perne aer poliuretan) + Compresor | 1.850 € |
+| **04** | **Cinematică (DE)** | Cârlig HD (D-Wert >= 17.17 kN) + Traversa ranforsată + Modul CAN | 650 € |
+| **05** | **Inginerie/Acte (DE)**| Geometrie 3D + Taxă TÜV §21 + Handling Fee (Antreprenor) | 570 € |
+| **06** | **Birocrație (DE/RO)** | Brief nou + Numere tranzit 15 zile + Asigurare + Cost rută DE-RO + RAR | 1.050 € |
+| **07** | **Termodinamică (RO)**| Etanșare V-Valley (Garnituri Viton răcitor ulei + Manoperă extracție motor) | 1.500 € |
+| **08** | **Securizare (RO)** | Distribuție lanț IWIS duplex + Tije admisie prelucrate CNC Billet | 1.750 € |
+| **09** | **Mentenanță (RO)** | Răcitor ATF cutie 7G-Tronic + Flush + Revizie fluide ansamblu 4MATIC | 1.250 € |
+| **---** | **TOTAL CAPEX** | **Conversie la cheie + Vehicul (Stadiu "Zero-Hour" Heavy-Duty)** | **~ 38.970 €** |
+
+---
+
+## Disecția Randamentului Financiar
+
+Analiza datelor demonstrează că diferențialul de buget între cele două platforme este de **16.670 €**. 
+
+Această infuzie de capital nu optimizează costurile operaționale recurente (consum de carburant, preț pe ora de manoperă etc.), ci achiziționează direct performanță mecanică brută: capacitatea de a încărca încă **180 kg** în benă la fiecare ciclu de operare, alături de o tracțiune net superioară generată de cuplul de 550 Nm (comparativ cu cei 430 Nm ai motorului 4N15).
+
+Alegerea trebuie dictată strict de marja de profitabilitate a logisticii pe care o operezi: justifică acel supliment de 180 kg pe cursă (fără a încălca legea greutăților pe cântar) o investiție adițională de peste 16.000 €?
